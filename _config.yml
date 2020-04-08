@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivér Kiss"
 title_separator          : "-"
 name                     : &name "Olivér Kiss"
-description              : &description "PhD Student in Economics @CEU"
+description              : &description "PhD Candidate in Economics @CEU"
 url                      : https://kiss-oliver.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kiss-oliver/kiss-oliver.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olivér Kiss"
   avatar           : "profile.png"
-  bio              : "PhD student in economics at Central European University"
+  bio              : "PhD Candidate in Economics at Central European University"
   location         : "Budapest, Hungary"
   employer         :
   pubmed           : 
