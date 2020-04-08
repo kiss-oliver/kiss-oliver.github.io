@@ -178,6 +178,9 @@ collections:
   papers:
     output: true
     permalink: /:collection/:path/
+  theses:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -221,19 +224,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _papers
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _papers
+  # _theses
   - scope:
       path: ""
-      type: papers
+      type: theses
     values:
       layout: single
       author_profile: true
