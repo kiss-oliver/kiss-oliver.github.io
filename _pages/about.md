@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at the Department of Economics and Business at Central European University. I'm supervised by [Adam Szeidl](http://www.personal.ceu.hu/staff/Adam_Szeidl/). My main interest is empirical political economy. I especially enjoy constructing efficient data pipelines to understand patterns in otherwise difficult-to-handle, large data sets. 
+I am an Economics PhD Candidate at the Department of Economics and Business at Central European University. I'm supervised by [Adam Szeidl](http://www.personal.ceu.hu/staff/Adam_Szeidl/). My main interest is empirical political economy. I especially enjoy constructing efficient data pipelines to understand patterns in otherwise difficult-to-handle, large data sets. 
 
 I received my MA in Economics at CEU and my BA in Applied Economics at Corvinus University of Budapest. I also have a pre-degree certificate from the Business and Management BA program of Corvinus University of Budapest.
 
