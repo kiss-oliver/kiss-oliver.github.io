@@ -29,3 +29,10 @@ The GitHub repository of the project is available [here](https://github.com/bene
 
 A preprint of our paper is available [here](https://arxiv.org/abs/2003.04819).
 
+Little Ball of Fur
+-----
+With [Benedek Rozemberczki (Edin)](http://homepages.inf.ed.ac.uk/s1668259/#) we work on a machine learning extension library for NetworkX consisting of graph sampling methods.
+
+The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/littleballoffur).
+
+A preprint of our paper is available [here](https://arxiv.org/abs/2003.04819).
