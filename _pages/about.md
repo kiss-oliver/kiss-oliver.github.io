@@ -35,4 +35,4 @@ With [Benedek Rozemberczki (Edin)](http://homepages.inf.ed.ac.uk/s1668259/#) we 
 
 The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/littleballoffur).
 
-A preprint of our paper is available [here](https://arxiv.org/abs/2003.04819).
+A preprint of our paper is available [here](https://arxiv.org/abs/2006.04311).
