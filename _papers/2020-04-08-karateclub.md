@@ -4,7 +4,7 @@ collection: publications
 permalink: /paper/2020-04-08-karateclub
 excerpt: "Karate Club consists of state-of-the-art methods to do unsupervised learning on graph structured data. To put it simply it is a Swiss Army knife for small-scale graph mining research. First, it provides network embedding techniques at the node and graph level. Second, it includes a variety of overlapping and non-overlapping community detection methods. Implemented methods cover a wide range of network science (NetSci, Complenet), data mining (ICDM, CIKM, KDD), artificial intelligence (AAAI, IJCAI) and machine learning (NeurIPS, ICML, ICLR) conferences, workshops, and pieces from prominent journals."
 date: 2020-03-10
-venue: 'arXiv cs.LG'
+venue: 'arXiv cs.LG, accepted to CIKM 2020'
 paperurl: 'https://arxiv.org/abs/2003.04819'
 citation: 'B. Rozemberczki, O. Kiss and R. Sarkar. An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs, ArXiV 2020.'
 ---
