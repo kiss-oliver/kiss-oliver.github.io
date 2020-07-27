@@ -28,6 +28,7 @@ With [Benedek Rozemberczki (Edin)](http://homepages.inf.ed.ac.uk/s1668259/#) and
 The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/karateclub).
 
 A preprint of our paper is available [here](https://arxiv.org/abs/2003.04819).
+This paper has been accepted to CIKM 2020.
 
 Little Ball of Fur
 -----
@@ -36,3 +37,4 @@ With [Benedek Rozemberczki (Edin)](http://homepages.inf.ed.ac.uk/s1668259/#) we 
 The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/littleballoffur).
 
 A preprint of our paper is available [here](https://arxiv.org/abs/2006.04311).
+This paper has been accepted to CIKM 2020.
