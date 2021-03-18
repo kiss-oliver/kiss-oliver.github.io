@@ -16,6 +16,7 @@ I am also a research assistant at the [CEU Microdata Research Group](http://micr
 
 Projects
 ======
+
 Pytorch Geometric Temporal
 -----
 We are working on publicly releasing PyTorch Geometric Temporal the first deep learning library for parametric spatiotemporal machine learning models. We provide data loaders and iterators with PyTorch Geometric Temporal}which can handle constant and varying time difference spatiotemporal datasets. We release novel challenging spatiotemporal benchmark datasets from the renewable energy production, epidemiological reporting, goods delivery and web traffic forecasting domains. We evaluate the spatiotemporal signal processing and forecasting capabilities of the neural and parametric machine learning models available in PyTorch Geometric Temporal on real world datasets. 
