@@ -35,7 +35,7 @@ A preprint our corresponding paper is available [on ArXiv](https://arxiv.org/abs
 
 Karate Club
 -----
-With [Benedek Rozemberczki (Edin)](http://homepages.inf.ed.ac.uk/s1668259/#) and [Rik Sarkar (Edin)](https://homepages.inf.ed.ac.uk/rsarkar/), we work on a machine learning extension library for NetworkX consisting of state-of-the-art methods to do unsupervised learning on graph structured data. 
+Karate Club is an unsupervised machine learning extension library for NetworkX. It builds on other open source linear algebra, machine learning, and graph signal processing libraries such as Numpy, Scipy, Gensim, PyGSP, and Scikit-Learn. Karate Club consists of state-of-the-art methods to do unsupervised learning on graph structured data. To put it simply it is a Swiss Army knife for small-scale graph mining research. First, it provides network embedding techniques at the node and graph level. Second, it includes a variety of overlapping and non-overlapping commmunity detection methods. Implemented methods cover a wide range of network science (NetSci, Complenet), data mining (ICDM, CIKM, KDD), artificial intelligence (AAAI, IJCAI) and machine learning (NeurIPS, ICML, ICLR) conferences, workshops, and pieces from prominent journals.
 
 The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/karateclub).
 
@@ -43,7 +43,7 @@ A preprint of our corresponding paper is available [on ArXiv](https://arxiv.org/
 
 Little Ball of Fur
 -----
-With [Benedek Rozemberczki (Edin)](http://homepages.inf.ed.ac.uk/s1668259/#) we work on an extension library for NetworkX consisting of graph sampling methods.
+Little Ball of Fur consists of methods to do sampling of graph structured data. First, it includes a large variety of vertex, edge and expansions sampling techniques. Second, it provides a unified application public interface which makes the application of sampling algorithms trivial for end-users. Implemented methods cover a wide range of networking (Networking, INFOCOM, SIGCOMM) and data mining (KDD, TKDD, ICDE) conferences, workshops, and pieces from prominent journals.
 
 The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/littleballoffur).
 
