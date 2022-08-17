@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* 2022 - Senior Data Scientist at [Spreadmonitor](https://spreadmonitor.com/)
+  * Energy market forecasting and simulation in Python
+
 * 2017 - Research Assistant at [CEU Microdata](http://microdata.io)
   * Data processing and analysis in Python
 
