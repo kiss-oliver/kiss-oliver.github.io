@@ -8,4 +8,4 @@ date: 2019-09-01
 location: "Budapest, Hungary"
 ---
 
-Find the course site [here](https://github.com/kiss-oliver/ba-pre-session-2019)
+Find the course site [here](https://github.com/kiss-oliver/ba-pre-session-2019-archive)
