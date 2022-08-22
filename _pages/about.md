@@ -14,6 +14,8 @@ I received my MA in Economics at CEU and my BA in Applied Economics at Corvinus 
 
 I am also a research assistant at the [CEU Microdata Research Group](http://microdata.io) since 2015 where I mostly work on data engineering tasks.
 
+In 2022 I joined [Spreadmonitor](https://spreadmonitor.com/) as a Senior Data Scientist advising the Data Science Team on multiple predictive models related to energy markets.
+
 Projects
 ======
 
