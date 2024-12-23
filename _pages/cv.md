@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2016 -      PhD in Economics, Central European University
+* 2016 - 2024 PhD in Economics, Central European University
 * 2014 - 2016 MA in Economics, Central European University (with distinction)
 * 2011 - 2014 BA in Applied Economics, Corvinus University of Budapest (with distinction)
 * 2010 - 2016 BA in Business and Management, Specialization in Environmental Management, Corvinus University of Budapest (pre-degree certificate)
@@ -21,7 +21,7 @@ Work experience
 * 2022 - Senior Data Scientist at [Spreadmonitor](https://spreadmonitor.com/)
   * Energy market forecasting and simulation in Python
 
-* 2017 - Research Assistant at [CEU Microdata](http://microdata.io)
+* 2015 - 2023 Research Assistant at [CEU Microdata](http://microdata.io)
   * Data processing and analysis in Python
 
 * 2014 April - October - Intern at Deutsche Bank AG Hungary Branch
