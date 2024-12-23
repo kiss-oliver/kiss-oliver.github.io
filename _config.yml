@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olivér Kiss"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics at Central European University"
+  bio              : "Senior Data Scientist @Spreadmonitor, PhD in Economics from CEU"
   location         : "Budapest, Hungary"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kissoliver91"
+  twitter          : # "kissoliver91"
   vine             :
   weibo            :
   xing             :
