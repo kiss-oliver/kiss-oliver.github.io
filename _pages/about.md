@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics PhD Candidate at the Department of Economics and Business at Central European University. I'm supervised by [Adam Szeidl](http://www.personal.ceu.hu/staff/Adam_Szeidl/). I especially enjoy constructing efficient data pipelines to understand patterns in otherwise difficult-to-handle, large data sets. 
+I'm a Senior Data Scientist at [Spreadmonitor](https://spreadmonitor.com/), where I mostly work on predictive models related to energy markets. I received my PhD in Economics in 2024 from the Department of Economics and Business at the Central European University.
 
-I received my MA in Economics at CEU and my BA in Applied Economics at Corvinus University of Budapest. I also have a pre-degree certificate from the Business and Management BA program of Corvinus University of Budapest.
+During my PhD, I spent altogether 6 months as a research intern at the New England Lab of Microsoft Research, working on applied research using large language models (GPT).
 
-I am also a research assistant at the [CEU Microdata Research Group](http://microdata.io) since 2015 where I mostly work on data engineering tasks.
+Before my PhD, I got my MA in Economics from CEU and a BA in Applied Economics from Corvinus University.
 
-In 2022 I joined [Spreadmonitor](https://spreadmonitor.com/) as a Senior Data Scientist advising the Data Science Team on multiple predictive models related to energy markets.
+I was a research assistant at the [CEU Microdata Research Group](http://microdata.io) between 2015 and 2023 where I mostly worked on data engineering tasks.
 
 Projects
 ======
 
-## The Shapley Value in Machine Learning
+## Assembling News Like Legos
+-----
+With Markus Mobius (Microsoft Research), we are working on decomposing potentially biased online news into elementary statements and characterizing the bias by measuring multiple layers of selection and framing decisions by their publishers.
+
+
+The Shapley Value in Machine Learning
 -----
 Over the last few years, the Shapley value, a solution concept from cooperative game theory, has found numerous applications in machine learning. In this paper, we first discuss fundamental concepts of cooperative game theory and axiomatic properties of the Shapley value. Then we give an overview of the most important applications of the Shapley value in machine learning: feature selection, explainability, multi-agent reinforcement learning, ensemble pruning, and data valuation. We examine the most crucial limitations of the Shapley value and point out directions for future research.
 
@@ -56,8 +61,3 @@ Little Ball of Fur consists of methods to do sampling of graph structured data. 
 The GitHub repository of the project is available [here](https://github.com/benedekrozemberczki/littleballoffur).
 
 A preprint of our corresponding paper is available [on ArXiv](https://arxiv.org/abs/2006.04311). The published paper is available in the [ACM DL](https://dl.acm.org/doi/abs/10.1145/3340531.3412758)
-
-
-Managers in Politics
------
-With [Arieda Muço (CEU)](https://sites.google.com/view/ariedamuco/home), we aim to provide a better understanding of how managers intertwine with local politics.
